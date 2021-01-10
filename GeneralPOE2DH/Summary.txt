@@ -1,0 +1,1 @@
+These codes (Example.m) demonstrate the algorithm of convertion from general POE parameters into D-H parameters by an example of PUMA 560 robot. Please refer to "Liao Wu, Ross Crawford, Jonathan Roberts. Geometric interpretation of the general POE model for a serial-link robot ia conversion into D-H parameterization."
